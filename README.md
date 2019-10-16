@@ -2026,4 +2026,4 @@ el dump termina con los FF esta vez, como obteniamos en el dumpeado por serial
 
 para sacarme la duda si era el integrado, testie las conexiones entre este micro y la EPROM con el tester similar a como hice lo del socalo del modem en la foto anterior
 
-
+el nombre dice algo como *NEC D65646D098 IPM 40203 0010LK002*
